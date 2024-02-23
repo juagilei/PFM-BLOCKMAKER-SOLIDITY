@@ -1,10 +1,8 @@
 # PROYECTO FINAL DE MASTER BLOCKMAKER.
 
-	Este va a ser el repositorio del proyecto final de master.
+	El protecto será un prestamo DEFI.
 
-	El protecto será un prestamos DEFI.
-
-	Se va a subdividir en tres partes con tres carpetas diferentes:
+	Se va a subdividir en tres partes con tres carpetas diferentes cada una con un repositorio diferente:
 		
 		- PFM Solidity:
 
@@ -17,5 +15,4 @@
 		- PFM React:
 
 			Repositorio donde realizaremos el Frontend.
-
 
